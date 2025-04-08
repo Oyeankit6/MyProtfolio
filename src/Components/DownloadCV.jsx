@@ -2,7 +2,7 @@ import React from "react";
 
 const DownloadCV = () => {
 
-    const cvUrl = "/src/assets/ANKITResume!.pdf";
+    const cvUrl = "/assets/ANKITResume!.pdf";
 
   return (
     <section id="resume" className="bg-[#1A202C] py-12 px-4 text-white flex flex-col items-center justify-center">
