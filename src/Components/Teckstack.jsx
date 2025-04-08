@@ -22,7 +22,7 @@ const skills = [
 
 export const TechStack = () => {
   return (
-    <section className="bg-[#1A202C] text-white px-6 py-14 md:px-12">
+    <section id="skills" className="bg-[#1A202C] text-white px-6 py-14 md:px-12">
       <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">Experience and Tech Stack</h2>
       <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-6 place-items-center hid">
         {skills.map((skill, index) => (

@@ -5,7 +5,7 @@ const DownloadCV = () => {
     const cvUrl = "/src/assets/ANKITResume!.pdf";
 
   return (
-    <section className="bg-[#1A202C] py-12 px-4 text-white flex flex-col items-center justify-center">
+    <section id="resume" className="bg-[#1A202C] py-12 px-4 text-white flex flex-col items-center justify-center">
     <h2 className="text-3xl font-bold mb-4">Resume</h2>
     <p className="text-lg mb-6 text-gray-300 text-center max-w-xl">
       Want to know more about me? Download or view my resume below.

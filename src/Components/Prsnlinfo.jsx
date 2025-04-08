@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Prsnlinfo = () => {
   return (
-    <div className="flex flex-col md:flex-row min-h-screen bg-[#1A202C] text-white">
+    <div id="home" className="flex flex-col md:flex-row min-h-screen bg-[#1A202C] text-white">
       {/* Left Side - Image */}
       <div className="md:w-1/2 w-full flex justify-center items-center p-6">
         <img
@@ -55,7 +55,7 @@ export const Prsnlinfo = () => {
 
           {/* Schedule a Meeting Button */}
           <a
-            href="https://calendly.com/your-link"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center bg-teal-300 text-black px-6 py-3 rounded-md hover:bg-teal-400 transition-colors duration-300 w-full sm:w-auto"

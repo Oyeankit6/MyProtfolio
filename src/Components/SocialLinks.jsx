@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 
 const SocialLinks = () => {
   return (
-    <section className="bg-[#1A202C] text-white py-12 px-4">
+    <section  id="contact" className="bg-[#1A202C] text-white py-12 px-4">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-10">Connect with Me</h2>
 

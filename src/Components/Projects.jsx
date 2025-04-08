@@ -17,8 +17,8 @@ const projects = [
       description:
         "A full-stack accommodation booking platform like Airbnb using MongoDB, Express, React, and Node.",
       image: "/src/assets/Projects/1718381042732.jpg",
-      github: "https://github.com/ankitdev/wanderlust-airbnb",
-      live: "",
+      github: "https://github.com/Oyeankit6/Wanderlust",
+      live: "/",
     },
     {
       title: "Task Management System (MERN)",
@@ -44,15 +44,15 @@ const projects = [
       description:
         "Scalable and secure role-based access system in Next.js with middlewares and API routes.",
       image: "/src/assets/Projects/RBAC.png",
-      github: "https://github.com/ankitdev/nextjs-rbac",
-      live: "https://nextjs-rbac-system.vercel.app",
+      github: "https://github.com/Oyeankit6/RoleBaseAccessControl",
+      live: "https://role-base-access-control.vercel.app/login",
     },
   ];
   
 
 const Projects = () => {
   return (
-    <section className="bg-[#1A202C] py-16 px-4 md:px-20">
+    <section id="projects" className="bg-[#1A202C] py-16 px-4 md:px-20">
       <h1 className="text-white text-3xl md:text-4xl font-bold text-center mb-12">
         Recent Projects
       </h1>
