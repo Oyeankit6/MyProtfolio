@@ -7,7 +7,7 @@ const projects = [
       date: "June 2023 – July 2023",
       description:
         "A scalable and optimized food-ordering application replicating Zomato's real-time data features. Key features: Shimmer, Accordion, API handling, and routing.",
-      image: "/src/assets/Projects/Tomato.jpg",
+      image: "/assets/Projects/Tomato.jpg",
       github: "https://github.com/Oyeankit6/Tomato-Full-Stack",
       live: "https://tomatofoodorder20.netlify.app",
     },
@@ -16,7 +16,7 @@ const projects = [
       date: "2023",
       description:
         "A full-stack accommodation booking platform like Airbnb using MongoDB, Express, React, and Node.",
-      image: "/src/assets/Projects/1718381042732.jpg",
+      image: "/assets/Projects/1718381042732.jpg",
       github: "https://github.com/Oyeankit6/Wanderlust",
       live: "/",
     },
@@ -25,7 +25,7 @@ const projects = [
       date: "2024",
       description:
         "Collaborative task board with role-based access, status tracking, and project assignment.",
-      image: "/src/assets/Projects/TaskManagmentSystem.jpg",
+      image: "/assets/Projects/TaskManagmentSystem.jpg",
       github: "https://github.com/Oyeankit6/Task_Management_system",
       live: "https://taskmanagmentbyankit.netlify.app/",
     },
@@ -34,7 +34,7 @@ const projects = [
       date: "2023",
       description:
         "Real-time chat app with typing indicators, message seen status, and socket rooms.",
-      image: "/src/assets/Projects/WhatsappClone.jpg",
+      image: "/assets/Projects/WhatsappClone.jpg",
       github: "https://github.com/Oyeankit6/WhatsApp--MERN-STACK",
       live: "https://whatsapp-clone-app.vercel.app",
     },
@@ -43,7 +43,7 @@ const projects = [
       date: "2025",
       description:
         "Scalable and secure role-based access system in Next.js with middlewares and API routes.",
-      image: "/src/assets/Projects/RBAC.png",
+      image: "/assets/Projects/RBAC.png",
       github: "https://github.com/Oyeankit6/RoleBaseAccessControl",
       live: "https://role-base-access-control.vercel.app/login",
     },

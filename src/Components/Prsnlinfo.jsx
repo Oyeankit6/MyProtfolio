@@ -6,7 +6,7 @@ export const Prsnlinfo = () => {
       {/* Left Side - Image */}
       <div className="md:w-1/2 w-full flex justify-center items-center p-6">
         <img
-          src="/src/assets/Ankit.png"
+          src="/assets/Ankit.png"
           alt="Ankit Kumar"
           className="rounded-full shadow-2xl w-52 h-52 sm:w-64 sm:h-64 md:w-72 md:h-72 object-cover transition duration-300"
         />

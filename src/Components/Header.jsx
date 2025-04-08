@@ -38,7 +38,7 @@ export const Header = () => {
         <div className="flex items-center">
           <img
             className="h-10 w-10 rounded-full border-2 border-cyan-400 shadow-md"
-            src="/src/assets/original-ead560979b865f6fa8273e27291b810d.webp"
+            src="/assets/original-ead560979b865f6fa8273e27291b810d.webp"
             alt="Logo"
           />
         </div>
